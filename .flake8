@@ -1,0 +1,3 @@
+[flake8]
+per-file-ignores =
+    coursereg/coursereg/settings.py: E501,
